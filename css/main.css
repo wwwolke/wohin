@@ -19,14 +19,14 @@ p {
     color: black
 }
 
-.wwwolke: {
+h2: {
     font-family:'', 'Arial', 'Sans-Serif';
     font-size: 3em;
         color: blue
 
 }
 
-.wwwolke:hover {
+h2:hover {
     color: white;
     text-transform: uppercase;
     letter-spacing: 1em;
