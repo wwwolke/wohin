@@ -10,8 +10,9 @@ h1 {
 }
 
 h1:hover {
-       font-size: 10em;
-       background-color: blue;
+       font-size: 5em;
+       background-color: black;
+        color: white;
     }
 p {
     font-size: 1.5em;
@@ -19,8 +20,8 @@ p {
     color: black
 }
 
-wolke {
-    font-size: 3em
+p.wolke { 
+    font-size: 3em;
         color: blue}
 
 h2 {
