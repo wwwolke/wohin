@@ -22,7 +22,7 @@ p {
 h2: {
     font-family:'', 'Arial', 'Sans-Serif';
     font-size: 3em;
-        color: blue
+    color: blue;
 
 }
 
@@ -30,14 +30,12 @@ h2:hover {
     color: white;
     text-transform: uppercase;
     letter-spacing: 1em;
-    cursor: hand; 
     text-shadow:
      1px  1px 1px black
      1px -1px 1px black,
     -1px  1px 1px black,
     -1px -1px 1px black;
     text-align: center;
-    margin-left: 100px ;
-    margin-right: auto;
+   
 }
 
