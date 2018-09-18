@@ -11,3 +11,22 @@ p {
     line-height: 1.4em;
     color: #333;
 }
+
+wwwolke: 
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+
+wwwolke:hover {
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 1em;
+    cursor: hand; 
+    text-shadow:
+     1px  1px 1px black
+     1px -1px 1px black,
+    -1px  1px 1px black,
+    -1px -1px 1px black;
+    text-align: center;
+    margin-left: 100px ;
+    margin-right: auto;
+}
+
