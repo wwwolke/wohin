@@ -10,7 +10,7 @@ h1 {
 }
 
 h1:hover {
-       font-size: 4em;
+       font-size: 10em;
        background-color: blue;
     }
 p {
@@ -19,7 +19,11 @@ p {
     color: black
 }
 
-h2: {
+wolke {
+    font-size: 3em
+        color: blue}
+
+h2 {
     font-family:'', 'Arial', 'Sans-Serif';
     font-size: 3em;
     color: blue;
