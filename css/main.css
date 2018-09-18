@@ -31,7 +31,7 @@ h2 {
 
 }
 
-h2:hover {
+.wolke:hover {
     color: white;
     text-transform: uppercase;
     letter-spacing: 1em;
