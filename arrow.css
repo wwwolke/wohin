@@ -1,0 +1,32 @@
+body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: #000000;
+	background-repeat: no-repeat;
+	height: 100%;
+}
+
+a {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100px;
+	height: 100px;
+	background: url('images/arrow.png') center;
+	background-position: -900px;
+   	background-repeat: no-repeat;
+}
+
+.tap-arrow {
+	animation: play 0.5s steps(10);	 
+}
+
+@keyframes play {
+	0% {
+		background-position: 0;
+	}
+    100% {
+	    background-position: -1000px;
+    }
+}
