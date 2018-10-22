@@ -16,6 +16,12 @@ a {
 	background: url('images/arrow.png') center;
 	background-position: -900px;
    	background-repeat: no-repeat;
+	user-drag: none; 
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-drag: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
 }
 
 .tap-arrow {
